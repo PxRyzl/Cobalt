@@ -33,7 +33,7 @@ pipx install win2xcur
 yay -S win2xcur
 ```
 
-### Automatic Convert
+## Automatic Convert
 > [!WARNING]
 > **This will automatically convert a directory containing the cursor files without needing to manually pick the cursor but the cursor file name needed to be similar or at least close to the default windows cursor name.**
 
