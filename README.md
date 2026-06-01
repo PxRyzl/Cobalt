@@ -9,6 +9,8 @@ Feel free to download some of the cursors that has been converted on my [pling](
 
 Win2xcur creator [Github](https://github.com/quantum5/win2xcur) page.
 
+Support me on [Ko-fi](https://ko-fi.com/pxryzl)
+
 > [!WARNING]
 > **Some part of the coding and debugging is done with AI assistant, especially with the conversion script. Be assured that this whole project isn't just a vibe coded and just be done with it, I personally review and check the code myself and test the software multiple times but I understand the AI hatred, so for those kind of people this might not be for you.**
 
